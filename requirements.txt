@@ -1,0 +1,17 @@
+# put packages names here followed by version if neeeded package==3.3.3
+#pandas
+beautifulsoup4==4.9.3
+firebase
+firebase-admin
+gcloud # firebase dependency
+lxml==4.6.1 # beautifulsoup4 dependency
+PyCryptodome # firebase dependency
+python_jwt # firebase dependency
+requests_toolbelt # firebase dependency
+selenium==4.11.0
+schedule
+sseclient # firebase dependency
+webdriver-manager==3.4.2
+openai
+python-dateutil
+tiktoken

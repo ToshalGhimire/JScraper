@@ -1,0 +1,8 @@
+{
+    "site": "https://www.indeed.com/",
+    "search_input_id": "text-input-what",
+    "query": "Entry level analyst",
+    "location": "Remote",
+    "location_input_id": "text-input-where",
+    "search_button_id": "yosegi-InlineWhatWhere-primaryButton"
+}
